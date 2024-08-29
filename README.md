@@ -25,3 +25,5 @@ A Calculater Project with basic arithmetic operations functionalities like addit
 
 ## The Project
 
+  ### [java code](#java_code)
+
