@@ -32,7 +32,7 @@ A Calculater Project with basic arithmetic operations functionalities like addit
 
 MIT License
 
-Copyright (c) [2024] [Mryhan Wahed]
+Copyright (c) [2024] [Meryhan Wahed]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
