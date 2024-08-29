@@ -25,9 +25,7 @@ A Calculater Project with basic arithmetic operations functionalities like addit
 
 ## The Project
 
-  #### [java code](java_code/code)
-  #### [CSS Code](css_code/code)
-  #### [HTML Code](html_code/code)
+  #### [java code](java_code/code)   #### [CSS Code](css_code/code)    #### [HTML Code](html_code/code)
 
   
 
